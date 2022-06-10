@@ -1,0 +1,40 @@
+.grid-item {
+    background-color: rgba(167, 167, 167, 0.267);
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+body{
+    text-align: center;
+    background-color: gray;
+}
+
+button{
+    background-color: rgba(167, 167, 167, 0.267);
+    border: 2px solid rgba(0, 0, 0, 0.8);
+
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+
+input{
+    background-color: rgba(167, 167, 167, 0.267);
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-right: 70%;
+}
